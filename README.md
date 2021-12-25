@@ -4,11 +4,13 @@
 I'm android Developer from Egypt.
 - Solid understanding in java, oop.
 - understanding of design screens using xml.
--  Good knowledge of fragment.
-- Solid understanding Rxjava.
-- Solid understanding retrofit.
+- Good knowledge of fragment.
+- Solid understanding Room Database and Rxjava.
+- Good knowledge retrofit.
 - Good knowledge mvvm,mvc,mvp.
-- 
+- Good knowledge google map.
+- Solid understanding recyclerview.
+
 I'm Flutter Developer from Egypt.
 
 - Flutter developer .
