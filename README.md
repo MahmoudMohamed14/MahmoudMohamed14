@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, my name is mahmoud mohamed
 
-<!--
-**MahmoudMohamed14/MahmoudMohamed14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me
+I'm android Developer from Egypt.
+- Solid understanding in java, oop.
+- understanding of design screens using xml.
+-  Good knowledge of fragment.
+- Solid understanding Rxjava.
+- Solid understanding retrofit.
+- Good knowledge mvvm,mvc,mvp.
+- 
+I'm Flutter Developer from Egypt.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Flutter developer .
+- Good knowledge of firebase real time database ( Online Database ) .
+- Good knowledge of Sqllite ( Offline Database ) .
+- Good knowledge with Restful APIS using Dio .
+- Familiarity with GitHub .
+- Good knowledge of Shared Preference Database .
+- Good knowledge of State Management ( Bloc ) .
